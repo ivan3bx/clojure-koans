@@ -8,3 +8,8 @@ Maps
 - hash-map -> /new map/
 - count, get, contains?,
 - (assoc a b) -> /a+b/
+
+
+REPL
+----
+lein repl
